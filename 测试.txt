@@ -1,0 +1,6 @@
+git add .
+git commit -m"new file"
+(git config --global) 邮箱
+(git config --global) 名字
+git commit -m “new file”邮箱
+git push orgin master
